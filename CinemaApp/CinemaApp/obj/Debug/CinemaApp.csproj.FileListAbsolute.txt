@@ -1,0 +1,6 @@
+E:\project\P507\CinemaApp\CinemaApp\bin\Debug\CinemaApp.exe.config
+E:\project\P507\CinemaApp\CinemaApp\bin\Debug\CinemaApp.exe
+E:\project\P507\CinemaApp\CinemaApp\bin\Debug\CinemaApp.pdb
+E:\project\P507\CinemaApp\CinemaApp\obj\Debug\CinemaApp.csprojAssemblyReference.cache
+E:\project\P507\CinemaApp\CinemaApp\obj\Debug\CinemaApp.exe
+E:\project\P507\CinemaApp\CinemaApp\obj\Debug\CinemaApp.pdb
